@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "MapleBot", "MapleBot\MapleBot.pyproj", "{D78A12AB-CBD7-4CF9-BA2C-884547395D07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D78A12AB-CBD7-4CF9-BA2C-884547395D07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D78A12AB-CBD7-4CF9-BA2C-884547395D07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F543EBD6-5AB9-49A8-BF6B-7C9CB86E8D6A}
+	EndGlobalSection
+EndGlobal
